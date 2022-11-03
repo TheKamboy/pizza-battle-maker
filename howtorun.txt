@@ -1,0 +1,7 @@
+It is simple.
+
+Make sure Python is in your PATH. There is tutorials online to help you do it. Or, if you haven't installed Python yet, make sure
+on the installer you click "Add Python to environment variables".
+
+If that is done, open your terminal (Windows 11) or CMD (Typing cmd.exe into address bar, Windows 10 or lower I think) and
+type in "python main.py" to run the game.
